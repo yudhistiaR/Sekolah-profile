@@ -159,6 +159,13 @@ button:hover {
     text-align: center;
 }
 
+th,
+td {
+    padding: 8px;
+    font-size: 13px;
+    text-align: center;
+}
+
 /* visi misi */
 
 #visimisi {
