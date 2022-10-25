@@ -103,7 +103,7 @@ nav a:hover,
 
 /* Hero section */
 main {
-    gap: 10px;
+    gap: 30px;
     display: flex;
     flex-direction: column;
 }
