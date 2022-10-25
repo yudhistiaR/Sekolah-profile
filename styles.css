@@ -168,7 +168,6 @@ td {
 }
 
 /* visi misi */
-
 #visimisi {
     display: flex;
     flex-direction: column;
@@ -202,7 +201,6 @@ td {
 }
 
 /* Sejrah */
-
 #sejarah {
     align-items: center;
     display: flex;
