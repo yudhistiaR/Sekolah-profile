@@ -103,7 +103,7 @@ nav a:hover,
 
 /* Hero section */
 main {
-    gap: 30px;
+    gap: 0px;
     display: flex;
     flex-direction: column;
 }
@@ -198,4 +198,13 @@ td {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+/* Sejrah */
+
+#sejarah {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
 }
