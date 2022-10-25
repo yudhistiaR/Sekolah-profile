@@ -161,9 +161,10 @@ button:hover {
 
 th,
 td {
+    border: 1px solid black;
     padding: 8px;
     font-size: 13px;
-    text-align: center;
+    text-align: left;
 }
 
 /* visi misi */
@@ -208,4 +209,5 @@ td {
     flex-direction: column;
     text-align: justify;
     gap: 20px;
+    padding: 40px;
 }
