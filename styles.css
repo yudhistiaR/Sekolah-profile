@@ -159,13 +159,6 @@ button:hover {
     text-align: center;
 }
 
-table,
-th,
-td {
-    display: flex;
-    flex-direction: column;
-}
-
 /* visi misi */
 
 #visimisi {
