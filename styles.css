@@ -274,3 +274,12 @@ form>.sub:hover {
 textarea {
     resize: none;
 }
+
+/* FOOTER */
+footer {
+    margin-top: 20px;
+    color: #fff;
+    background-color: red;
+    text-align: center;
+    padding: 50px;
+}
