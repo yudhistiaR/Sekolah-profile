@@ -214,3 +214,28 @@ td {
 }
 
 /* Gallery */
+.img-container>.img-card>img {
+    width: 320px;
+    height: 320px;
+}
+
+#gallery {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 20px 40px 20px;
+}
+
+.img-container {
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.img-card {
+    padding: 1em;
+    border-bottom: 5px;
+    box-shadow: rgb(28 32 93 / 24%) 0px 2px 8px 0px;
+}
