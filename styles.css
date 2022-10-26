@@ -246,3 +246,31 @@ td {
     flex-direction: column;
     align-items: center;
 }
+
+input {
+    line-height: 30px;
+}
+
+.form>form {
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+form>.sub {
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    background-color: red;
+}
+
+form>.sub:hover {
+    background-color: #ddd;
+    color: black;
+    transition: 0.3s;
+}
+
+textarea {
+    resize: none;
+}
